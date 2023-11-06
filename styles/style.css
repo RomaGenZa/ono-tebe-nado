@@ -132,7 +132,7 @@ body {
 }
 
 .letter-spacing-extended {
-  letter-spacing: .6em;
+  letter-spacing: 0.6em;
 }
 
 .no-letter-spacing {
@@ -152,7 +152,7 @@ body {
 }
 
 .cover_description-text {
-  color: #FFF;
+  color: #fff;
   word-spacing: 18px;
   margin-top: 13px;
   display: flex;
@@ -165,10 +165,10 @@ body {
 .bet-button {
   text-transform: uppercase;
   font-size: 100%;
-  color: #FFF;
+  color: #fff;
   background-color: transparent;
   padding: 12px 32px;
-  border: 1px solid #FFF;
+  border: 1px solid #fff;
   margin-right: -17px;
 }
 
@@ -210,15 +210,15 @@ body {
 }
 
 .card_one {
-  background-image: url(../images/card-lot-01.jpg)
+  background-image: url(../images/card-lot-01.jpg);
 }
 
 .card_two {
-  background-image: url(../images/card-lot-02.jpg)
+  background-image: url(../images/card-lot-02.jpg);
 }
 
 .card_three {
-  background-image: url(../images/card-lot-03.jpg)
+  background-image: url(../images/card-lot-03.jpg);
 }
 
 .lots_look-more-link {
@@ -229,7 +229,7 @@ body {
 }
 
 .card_title {
-  color: #FFF;
+  color: #fff;
   font-size: 22px;
   font-weight: 700;
   line-height: 26.4px;
@@ -242,7 +242,7 @@ body {
 
 .content_card {
   display: block;
-  color: #FFF;
+  color: #fff;
   font-size: 20px;
   font-weight: 400;
   margin-right: 40px;
